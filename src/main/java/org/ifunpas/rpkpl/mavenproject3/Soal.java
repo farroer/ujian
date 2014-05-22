@@ -10,6 +10,8 @@ package org.ifunpas.rpkpl.mavenproject3;
  */
 public class Soal {
     public int pangkat (int bil,int pangkat){
+        
+        
         int hasil = 0;
         int n = 1;
         while(n <= pangkat){
